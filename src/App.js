@@ -1,6 +1,5 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar";
 import Login from "./pages/auth/Login";
 import Projects from "./pages/projects/Projects";
 import Task from "./pages/tasks/TaskList";
